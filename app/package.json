@@ -1,0 +1,26 @@
+{
+  "name": "myblog",
+  "version": "1.0.0",
+  "description": "app about blog",
+  "main": "app.js",
+  "scripts": {
+    "test": "make test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yangxingnn/my-blog.git"
+  },
+  "keywords": [
+    "blog"
+  ],
+  "author": "yangxing",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yangxingnn/my-blog/issues"
+  },
+  "homepage": "https://github.com/yangxingnn/my-blog#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
